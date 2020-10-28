@@ -37,6 +37,7 @@
 
   .navbar{
     background-color: #06060654;
+    padding-bottom: 2.5%;
   
 }
 .fixed-top{
@@ -47,7 +48,7 @@
     z-index: 10;
 }
 #title{
-    background-color: #000000;
+    background-color: #202020;
     color: #ffffff;
     padding: 10% 5%;
     text-align: left;

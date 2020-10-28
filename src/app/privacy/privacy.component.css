@@ -2,8 +2,9 @@
 .privacy-page {
     background-color: white;
     color: black;
-    margin-left: 1%;
-    font-family: 'Playfair Display', serif;
+    font-family: "Montserrat-Black";
+    font-size: large;
+    padding: 5% 5%;
 }
 
 .text-aligns {
@@ -22,4 +23,5 @@ p ol li{
 }
 h6 {
     font-weight: bold;
+    text-decoration: underline;
 }
