@@ -1,0 +1,25 @@
+
+.privacy-page {
+    background-color: white;
+    color: black;
+    margin-left: 1%;
+    font-family: 'Playfair Display', serif;
+}
+
+.text-aligns {
+    text-align: right;
+}
+
+.heading {
+    text-align: center;
+}
+
+p ol li{
+    text-indent: 2px;
+}
+.main {
+    font-weight: bolder;
+}
+h6 {
+    font-weight: bold;
+}

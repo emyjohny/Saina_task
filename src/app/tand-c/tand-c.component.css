@@ -1,0 +1,15 @@
+.container{
+    background-color: white;
+    color: black;
+    text-align: justify;
+    font-family: "Montserrat-Black";
+    font-size: large;
+    padding: 5% 5%;
+ 
+}
+.align{
+    text-align: right;
+}
+.main_head{
+    text-align: center;
+}
